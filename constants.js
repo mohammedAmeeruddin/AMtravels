@@ -1,0 +1,1 @@
+exports.Roles=["CUSTEMER","DRIVER"];
