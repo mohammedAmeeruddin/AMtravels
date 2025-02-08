@@ -1,7 +1,6 @@
 const mongoose =require("mongoose");
 require("dotenv").config(".env");
-const URL=
-'mongodb+srv://ameeruddincodersnest:B7pysY8vQvm6JxOx@cluster0.x7s0g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const URL='mongodb+srv://ameeruddincodersnest:B7pysY8vQvm6JxOx@cluster0.x7s0g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 exports.connectDB=()=>{
     mongoose    
     .connect(URL)
@@ -10,3 +9,4 @@ exports.connectDB=()=>{
     
     
 };
+console.log('step4');

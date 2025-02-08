@@ -4,4 +4,4 @@ mongodb+srv://ameeruddincodersnest:gsQkdDfohciFeXmV@cluster0.0x8lhfs.mongodb.net
 
 ameeruddincodersnest
 B7pysY8vQvm6JxOx
-mongodb+srv://ameeruddincodersnest:<B7pysY8vQvm6JxOx>@cluster0.x7s0g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://ameeruddincodersnest:<db_password>@cluster0.x7s0g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
